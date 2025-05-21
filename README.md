@@ -1,1 +1,3 @@
 This will be a project for a recipie website.
+By the end of it I hope to demenstrate improved skills in HTML, CSS and JS languages.
+I also will be improving my typing skills along the way.
